@@ -41,9 +41,7 @@ A simple **AC to DC Converter** designed in **KiCad** using a bridge rectifier, 
 
 ## 📷 Schematic
 
-> Add the schematic image below.
-
-![AC to DC Converter](schematic.png)
+<img width="913" height="390" alt="Image" src="https://github.com/user-attachments/assets/e341be46-c9f3-4d39-8b5c-42d91e7953e7" />
 
 ---
 
